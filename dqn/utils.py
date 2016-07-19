@@ -1,5 +1,5 @@
 import time
-import cPickle
+import pickle
 import tensorflow as tf
 
 def timeit(f):
